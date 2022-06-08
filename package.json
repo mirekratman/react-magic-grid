@@ -37,8 +37,8 @@
   },
   "peerDependencies": {
     "magic-grid": "3.2.4",
-    "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "devDependencies": {
     "@babel/cli": "7.6.4",
